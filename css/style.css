@@ -17,7 +17,7 @@
     position: absolute;
     bottom: 0;
     width: 80px;
-    /*animation: pipe-animation 2s infinite linear;*/
+    animation: pipe-animation 1.5s infinite linear;
 }
 
 .mario {
@@ -27,7 +27,7 @@
 }
 
 .jump-mario {
-   /* animation: jump-mario 500ms infinite ease-out;*/
+    animation: jump-mario 500ms infinite ease-out;
 }
 
 
