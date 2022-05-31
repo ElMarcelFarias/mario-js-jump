@@ -24,8 +24,13 @@
     width: 150px;
     position: absolute;
     bottom: 0;
-    /*animation: jump-mario 500ms;*/
 }
+
+.jump-mario {
+   /* animation: jump-mario 500ms infinite ease-out;*/
+}
+
+
 
 @keyframes pipe-animation {
     from {
