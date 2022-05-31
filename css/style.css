@@ -5,12 +5,13 @@
 }
 
 .game-board {
-    width: 80%;
+    width: 100%;
     height: 500px;
-    border: 1px solid #333;
+    border-bottom: 15px solid rgb(35, 160, 35);
     margin: 0 auto;
     position: relative;
     overflow: hidden;
+    background: linear-gradient(#87CEEB, #E0F6FF);
 }
 
 .pipe {
@@ -30,6 +31,12 @@
     animation: jump-mario 500ms infinite ease-out;
 }
 
+
+.cloud {
+    position: absolute;
+    width: 550px;
+    animation: cloud-animation 20s infinite;
+}
 
 
 @keyframes pipe-animation {
@@ -62,5 +69,15 @@
 
     100% {
         bottom: 0;
+    }
+}
+
+@keyframes cloud-animation {
+    from {
+        right: -550;
+    }
+
+    to {
+        right: 100%;
     }
 }
