@@ -15,9 +15,16 @@
 
 <hr>
 <h3>Screen:</h3>
-<img src="https://user-images.githubusercontent.com/92833379/171193385-fcac68af-6680-4465-b325-0f812a58897d.png">
+
+|   Esquerda   |  Centralizado  |    Direita    |
+| :---         |     :---:      |          ---: |
+| <img src="https://user-images.githubusercontent.com/92833379/171193385-fcac68af-6680-4465-b325-0f812a58897d.png">   | <img src="https://user-images.githubusercontent.com/92833379/171193385-fcac68af-6680-4465-b325-0f812a58897d.png">    | <img src="https://user-images.githubusercontent.com/92833379/171194631-2adaad50-5aeb-4491-95e7-5b34eac7fc7f.png">    |
+
+
+
+
 <br>
-<img src="https://user-images.githubusercontent.com/92833379/171194631-2adaad50-5aeb-4491-95e7-5b34eac7fc7f.png">
+
 
 <br>
 <img src="https://user-images.githubusercontent.com/92833379/171194376-e9e7901b-d607-4f9f-928d-716d761d9bd7.png">
